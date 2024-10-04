@@ -1,4 +1,4 @@
-# PopStream: Personalized Movie Recommendation App
+# PopStream🎥 : Personalized Movie Recommendation App 🎥
 
 ## Overview
 PopStream is a web application that provides personalized movie recommendations based on user input, 
